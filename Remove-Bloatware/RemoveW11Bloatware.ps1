@@ -39,6 +39,7 @@ $UninstallPackages = @(
     "Microsoft.YourPhone"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
+    "Microsoft.Windows.DevHome"
 )
 
 # List of programs to uninstall
