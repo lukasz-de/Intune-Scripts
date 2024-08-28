@@ -1,4 +1,5 @@
 #!/bin/zsh
+# Lukasz Hauptman | lukasz.de | 2024
 # Username and Password to create
 username=Administrator
 password="MyPassword"
